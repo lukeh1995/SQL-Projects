@@ -9,6 +9,16 @@
             "name": "sql_course",
             "database": "sql_course",
             "username": "postgres"
+        },
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "askForPassword": true,
+            "driver": "PostgreSQL",
+            "name": "covid_database",
+            "database": "covid_patient_data",
+            "username": "postgres"
         }
     ]
 }
